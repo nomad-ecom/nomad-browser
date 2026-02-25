@@ -9,8 +9,8 @@
       "targets": {
         "windows-x64": {
           "url": "https://github.com/nomad-ecom/nomad-browser/releases/download/v139/nomad-139-windows-x64.zip",
-          "sha256": "dd3e637534762d41d2d60312ee17ce9fd515fb8a628dc9d9aeaaeca3b0638eb4",
-          "size": 179067071
+          "sha256": "cb905866dfe9a46c5a8e36507bb66dbeb5ab073db9c42d1a56152f4820b8f937",
+          "size": 179364697
         },
         "macos-arm64": {
           "url": "https://github.com/nomad-ecom/nomad-browser/releases/download/v139/nomad-139-macos-arm64.zip",
