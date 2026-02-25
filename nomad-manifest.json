@@ -1,0 +1,18 @@
+{
+  "channel": "stable",
+  "latest": "139",
+  "versions": [
+    {
+      "version": "139",
+      "buildDate": "2026-02-25",
+      "notes": "Initial Windows release",
+      "targets": {
+        "windows-x64": {
+          "url": "https://github.com/nomad-ecom/nomad-browser/releases/download/v139/nomad-139-windows-x64.zip",
+          "sha256": "dd3e637534762d41d2d60312ee17ce9fd515fb8a628dc9d9aeaaeca3b0638eb4",
+          "size": 179067071
+        }
+      }
+    }
+  ]
+}
