@@ -14,8 +14,8 @@
         },
         "macos-arm64": {
           "url": "https://github.com/nomad-ecom/nomad-browser/releases/download/v139/nomad-139-macos-arm64.zip",
-          "sha256": "2f9dd41d3b8329242944a6267670dab90fecb9fd5bcf45425eff5af3bab2856b",
-          "size": 118444419
+          "sha256": "9d4ea5d5d7be57fcbdca08cb9a1a292449dbb912954d5da6d3c510333a26b8cd",
+          "size": 144280859
         }
       }
     }
