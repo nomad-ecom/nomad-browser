@@ -11,6 +11,11 @@
           "url": "https://github.com/nomad-ecom/nomad-browser/releases/download/v139/nomad-139-windows-x64.zip",
           "sha256": "dd3e637534762d41d2d60312ee17ce9fd515fb8a628dc9d9aeaaeca3b0638eb4",
           "size": 179067071
+        },
+        "macos-arm64": {
+          "url": "https://github.com/nomad-ecom/nomad-browser/releases/download/v139/nomad-139-macos-arm64.zip",
+          "sha256": "2f9dd41d3b8329242944a6267670dab90fecb9fd5bcf45425eff5af3bab2856b",
+          "size": 118444419
         }
       }
     }
